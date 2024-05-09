@@ -1,0 +1,22 @@
+* {
+    font-family: "Sedan SC", serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: linear-gradient(90deg, rgb(0, 0, 0) 30%, rgb(63, 63, 63) 100%);
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: #e70909;
+    transition: 0.25s;
+}
+
+a:hover {
+    color: #f30000;
+    font-weight: bold;
+}
